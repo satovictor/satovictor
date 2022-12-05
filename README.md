@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @satovictor system analyts and web developer - languages experienced: PHP, C#, ASP.NET, Java/Kotlin and Angular
+- 👀 I’m interested in front-end web development and apps (native Android and iOS apps) and web-based as well (Angular, Flutter and React)
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Web Pages and accessibility (WCAG)
+- 📫 How to reach me at https://www.linkedin.com/in/satovictor/
